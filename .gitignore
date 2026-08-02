@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+data/uploads/*
+data/chroma/*
+data/kg/*
+!data/**/.gitkeep
+out/
+.venv/
+.pytest_cache/
+lib/
+.ipynb_checkpoints/
