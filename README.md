@@ -249,6 +249,10 @@ python scripts/finetune_lora.py --base <hf-model> --data data/train.jsonl --qlor
 it retrieves with hybrid search, reranks, self-corrects, and proves every claim
 against the source page."*
 
+<p align="center">
+  <img src="TipsHindawi.mp4" width="800" />
+</p>
+
 ---
 
 ## 🔌 API quick reference
